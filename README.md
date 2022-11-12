@@ -100,5 +100,5 @@ You may also periodically check if the file has been fetched by other nodes by g
 
 This will give you a link to *ipfs.io* to check if the file has been published successfully.
 
-
+### Congratulations!!! You've completed the D-Tube exercise using IPFS!
 
