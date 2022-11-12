@@ -85,7 +85,7 @@ In this case, the sample video’s hash is: *QmTd7oPu7TvgdcHMPysv1kfvFzikvkoefoV
 5. Once everything is in place, add the hash to the upload video form.
 
 Add the final touches (title, description, tags, etc.). DTube requires you to upload a thumbnail for the video
-before publishing it, click on Add Thumbnail to upload one and select your prepared thumbnail.
+before publishing it, click on **Add Thumbnail** to upload one and select your prepared thumbnail.
 
 Click on **Publish Video**.
 
@@ -93,7 +93,12 @@ Click on **Publish Video**.
 Due to the decentralized nature of the platform, you may experience uncomfortable loading times when
 playing the video compared to other leading platforms (Youtube, Facebook, etc.).
 
+If your video is too big (100 MB+), it will take a while for other nodes to fetch your video. You can see some
+detailed eye-friendly status on *http://127.0.0.1:5001/webui* This takes you to the IPFS GUI.
 
+You may also periodically check if the file has been fetched by other nodes by going to the IPFS Desktop GUI.
+
+This will give you a link to *ipfs.io* to check if the file has been published successfully.
 
 
 
