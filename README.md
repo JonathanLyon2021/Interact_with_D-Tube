@@ -3,6 +3,7 @@ This is an extra credit exercise in MI4 of Kingsland Universities Blockchain Dev
 
 **Exercise: Interact with DTube** (Optional)
 
+# Overview
 DTube is the first crypto-decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-
 peer network.
 
@@ -19,3 +20,13 @@ It is important to note that DTube is currently on Testnet Mode, therefore, the 
 platform launches on the MainNet, scheduled on 10th of May 2020 *(https://steemit.com/dtube/@dtube/dtube-
 mainnet-launch-date-and-adjustments).*
 
+# Goal
+
+• Upload a media to DTube using IPFS and realize that a social media platform for video content is feasible
+using decentralized technologies.
+
+# Prerequisites
+• A web browser and an internet connection that is able to access https://d.tube/
+• IPFS Daemon
+• A sample video file (No limit)
+• A sample thumbnail (Max 2MB)
