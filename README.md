@@ -1,5 +1,5 @@
 # Interact_with_D-Tube
-This is an extra credit exercise in MI4 of Kingsland Universities Blockchain Developer Program
+Although there is no actual coding to go along with this exercsie, it is very important for developers to get comfortable with the IPFS system and it's commands. I actually had a lot of fun in this exercise and would reccommend doing this to anyone looking to further their understanding of the IPFS.
 
 **Exercise: Interact with DTube** (Optional)
 
