@@ -30,3 +30,17 @@ using decentralized technologies.
 • IPFS Daemon
 • A sample video file (No limit)
 • A sample thumbnail (Max 2MB)
+
+
+# 1. Create an account
+1. Register an account on https://signup.d.tube/
+
+2. Comply with the registration requirements. The first verification step is via email.
+Make sure that you use a valid email (not disposable ones) as this is validated by DTube and you won’t be
+able to complete the registration process.
+
+3. Linking your Facebook Account is optional, you may skip this step.
+
+4. Next, the platform will generate your cryptographic keys. Note that these keys are generated on the client
+side. A different key pair is generated each time you refresh the page.
+Save the keys as you’ll need them later.
